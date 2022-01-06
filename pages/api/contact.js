@@ -1,7 +1,7 @@
 const { Client } = require('@notionhq/client');
 
 const notion = new Client({
-  auth: "secret_jreKs121c5vqST7PisE5m9as68y7rkfqvTndc7jpdWw",
+  auth: "secret_aUUvcAFLGCTYoqABMEzAc7AwmrzHMijHTHIV1hhx4xF",
 });
 
 export default async (req, res) => {
@@ -12,7 +12,7 @@ export default async (req, res) => {
     const { name, email, subject, message } = JSON.parse(req.body);
     await notion.pages.create({
       parent: {
-        database_id: "9d9b8dfe0ff74092b4971259845ab6e7",
+        database_id: "b657b44a257c4969861b30071c0423a1",
       },
       properties: {
         Name: {

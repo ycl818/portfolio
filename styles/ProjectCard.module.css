@@ -1,5 +1,8 @@
 .card {
+  width: 100%;
   background: var(--article-bg);
+  background-size: cover;
+  background-position: center;
   display: flex;
   flex-direction: column;
   border-radius: 20px;
