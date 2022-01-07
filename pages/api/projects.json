@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Currency Exchange",
-    "image": "/../public/20220104-map-after_search.PNG",
+    "image": "https://imgur.com/x8Qf6lc.png",
     "description": "A platform for web developers to showcase their projects",
     "tags": ["react", "api", "scss", "styled-components"],
     "source_code": "https://github.com/ycl818/Capstone-project",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Card Memorizing Game",
-    "image": "/../public/20220106_regalia.PNG",
+    "image": "https://imgur.com/7hNl9xX.png",
     "description": "A card pairing game",
     "tags": ["api", "css", "Javascript","HTML"],
     "source_code": "https://github.com/ycl818/Card_Memorizing_Game",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Social List",
-    "image": "/../public/social_like.png",
+    "image": "https://imgur.com/qaKIePg.png",
     "description": "Social List",
     "tags": ["api", "css", "Javascript","HTML","Local storage","Bootstrap"],
     "source_code": "https://github.com/ycl818/Social_List",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Movie List",
-    "image": "/../public/20220106_movie.png",
+    "image": "https://imgur.com/QTTlhEB.png",
     "description": "80 movie list ",
     "tags": ["api", "css", "Javascript","HTML","Local storage","Bootstrap"],
     "source_code": "https://github.com/ycl818/Movie_List_80",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Hawaii website",
-    "image": "/../public/20220106-1.PNG",
+    "image": "https://imgur.com/ytsmjca.png",
     "description": "Arrangement practice website",
     "tags": ["scss", "Javascript","HTML"],
     "source_code": "https://github.com/ycl818/Hawaii_website",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "BrickBall",
-    "image": "/../public/20220106_brickball.PNG",
+    "image": "https://imgur.com/dlv188b.png",
     "description": "A little keyboard control based game",
     "tags": ["css", "Javascript","HTML"],
     "source_code": "https://github.com/ycl818/BrickBall",
