@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Currency Exchange",
     "image": "https://imgur.com/x8Qf6lc.png",
-    "description": "A platform for web developers to showcase their projects",
+    "description": "A currency exchange app with Google Map api",
     "tags": ["react", "api", "scss", "styled-components"],
     "source_code": "https://github.com/ycl818/Capstone-project",
     "demo": "https://gracious-brown-951175.netlify.app/"
