@@ -56,7 +56,7 @@
    {
     "id": 7,
     "name": "RGB_Convertor",
-    "image": "/../public/20220106_RGB.PNG",
+    "image": "https://imgur.com/HZXQiaV.png",
     "description": "RGB convertor",
     "tags": ["css", "Javascript","HTML"],
     "source_code": "https://github.com/ycl818/RGB_Converter",
