@@ -1,27 +1,27 @@
-import { useState } from 'react';
-import ContactCode from '../components/ContactCode';
-import styles from '../styles/ContactPage.module.css';
+import { useState } from "react";
+import ContactCode from "../components/ContactCode";
+import styles from "../styles/ContactPage.module.css";
 
 const ContactPage = () => {
-  const [name, setName] = useState('');
-  const [email, setEmail] = useState('');
-  const [subject, setSubject] = useState('');
-  const [message, setMessage] = useState('');
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [subject, setSubject] = useState("");
+  const [message, setMessage] = useState("");
 
   const submitForm = async (e) => {
     e.preventDefault();
     const res = await fetch(`/api/contact`, {
-      method: 'POST',
+      method: "POST",
       body: JSON.stringify({ name, email, subject, message }),
     });
     if (res.ok) {
-      alert('Your response has been received!');
-      setName('');
-      setEmail('');
-      setSubject('');
-      setMessage('');
+      alert("Your response has been received!");
+      setName("");
+      setEmail("");
+      setSubject("");
+      setMessage("");
     } else {
-      alert('There was an error. Please try again in a while.');
+      alert("There was an error. Please try again in a while.");
     }
   };
 
@@ -31,7 +31,7 @@ const ContactPage = () => {
         <h1>Reach Out Via Socials</h1>
         <ContactCode />
       </div>
-      <div>
+      {/* <div>
         <h1>Or Fill Out The Form</h1>
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
@@ -82,14 +82,14 @@ const ContactPage = () => {
           </div>
           <button type="submit">Submit</button>
         </form>
-      </div>
+      </div> */}
     </div>
   );
 };
 
 export async function getStaticProps() {
   return {
-    props: { title: 'Contact' },
+    props: { title: "Contact" },
   };
 }
 
