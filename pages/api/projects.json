@@ -11,8 +11,8 @@
       "styled-components",
       "API"
     ],
-    "source_code": "https://github.com/ycl818/Netflix_Clone",
-    "demo": "https://netflix-clone-c7e55.firebaseapp.com/"
+    "source_code": "https://github.com/ycl818/google-search",
+    "demo": "https://gooogle-search.netlify.app/search"
   },
   {
     "id": 9,
@@ -56,7 +56,7 @@
       "styled-components"
     ],
     "source_code": "https://github.com/ycl818/Capstone-project",
-    "demo": "https://gracious-brown-951175.netlify.app/"
+    "demo": "https://curreny-exchange.netlify.app/"
   },
   {
     "id": 6,
