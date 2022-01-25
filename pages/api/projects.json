@@ -1,28 +1,89 @@
 [
   {
-    "id": 1,
+    "id": 10,
+    "name": "Google-Search",
+    "image": "https://imgur.com/vqd0R1j.png",
+    "description": "A website that can search any keywords with results, images, news, and videos",
+    "tags": [
+      "React.js",
+      "jsx",
+      "Tailwind CSS",
+      "styled-components",
+      "API"
+    ],
+    "source_code": "https://github.com/ycl818/Netflix_Clone",
+    "demo": "https://netflix-clone-c7e55.firebaseapp.com/"
+  },
+  {
+    "id": 9,
+    "name": " Netflix-Clone",
+    "image": "https://imgur.com/WrXpDll.png",
+    "description": "Simulated Netflix home page.",
+    "tags": [
+      "React.js",
+      "jsx",
+      "css",
+      "styled-components",
+      "API",
+      "Firebase hoisting"
+    ],
+    "source_code": "https://github.com/ycl818/Netflix_Clone",
+    "demo": "https://netflix-clone-c7e55.firebaseapp.com/"
+  },
+  {
+    "id": 8,
+    "name": " Amazon-Cart",
+    "image": "https://imgur.com/dzqV46n.png",
+    "description": "Simulated Amazon shooping cart with calculative function.",
+    "tags": [
+      "React.js",
+      "jsx",
+      "css",
+      "styled-components"
+    ],
+    "source_code": "https://github.com/ycl818/Amazon-Cart",
+    "demo": "https://amazon-cart-practice.netlify.app/"
+  },
+  {
+    "id": 7,
     "name": "Currency Exchange",
     "image": "https://imgur.com/x8Qf6lc.png",
     "description": "A currency exchange app with Google Map api",
-    "tags": ["react", "api", "scss", "styled-components"],
+    "tags": [
+      "React.js",
+      "API",
+      "scss",
+      "styled-components"
+    ],
     "source_code": "https://github.com/ycl818/Capstone-project",
     "demo": "https://gracious-brown-951175.netlify.app/"
   },
   {
-    "id": 2,
+    "id": 6,
     "name": "Card Memorizing Game",
     "image": "https://imgur.com/7hNl9xX.png",
     "description": "A card pairing game",
-    "tags": ["api", "css", "Javascript","HTML"],
+    "tags": [
+      "css",
+      "Javascript",
+      "HTML"
+    ],
     "source_code": "https://github.com/ycl818/Card_Memorizing_Game",
     "demo": "https://ycl818.github.io/Card_Memorizing_Game/"
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Social List",
     "image": "https://imgur.com/qaKIePg.png",
     "description": "Social List",
-    "tags": ["api", "css", "Javascript","HTML","Local storage","Bootstrap"],
+    "tags": [
+      "API",
+      "css",
+      "Javascript",
+      "HTML",
+      "Local storage",
+      "Bootstrap"
+    ],
     "source_code": "https://github.com/ycl818/Social_List",
     "demo": "https://ycl818.github.io/Social_List/"
   },
@@ -31,34 +92,53 @@
     "name": "Movie List",
     "image": "https://imgur.com/QTTlhEB.png",
     "description": "80 movie list ",
-    "tags": ["api", "css", "Javascript","HTML","Local storage","Bootstrap"],
+    "tags": [
+      "API",
+      "css",
+      "Javascript",
+      "HTML",
+      "Local storage",
+      "Bootstrap"
+    ],
     "source_code": "https://github.com/ycl818/Movie_List_80",
     "demo": "https://ycl818.github.io/Movie_List_80/"
   },
   {
-    "id": 5,
+    "id": 3,
     "name": "Hawaii website",
     "image": "https://imgur.com/ytsmjca.png",
     "description": "Arrangement practice website",
-    "tags": ["scss", "Javascript","HTML"],
+    "tags": [
+      "scss",
+      "Javascript",
+      "HTML"
+    ],
     "source_code": "https://github.com/ycl818/Hawaii_website",
     "demo": "https://ycl818.github.io/Hawaii_website/"
   },
   {
-    "id": 6,
+    "id": 2,
     "name": "BrickBall",
     "image": "https://imgur.com/dlv188b.png",
     "description": "A little keyboard control based game",
-    "tags": ["css", "Javascript","HTML"],
+    "tags": [
+      "css",
+      "Javascript",
+      "HTML"
+    ],
     "source_code": "https://github.com/ycl818/BrickBall",
     "demo": "https://ycl818.github.io/BrickBall/"
   },
-   {
-    "id": 7,
+  {
+    "id": 1,
     "name": "RGB_Convertor",
     "image": "https://imgur.com/HZXQiaV.png",
     "description": "RGB convertor",
-    "tags": ["css", "Javascript","HTML"],
+    "tags": [
+      "css",
+      "Javascript",
+      "HTML"
+    ],
     "source_code": "https://github.com/ycl818/RGB_Converter",
     "demo": "https://ycl818.github.io/RGB_Converter/"
   }
